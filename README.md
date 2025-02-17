@@ -17,7 +17,7 @@ The image below shows one of the papers robots. This "Dogbot" is able to harvest
 
 
 
-# 1. Background of Piezobot-V1 [↩](#tt10---microrobot-circuits-documentation-)
+# 1. Background of Piezobot-V1 [↩](#piezobot-v1-)
 Dogbot supports the [Open Source Mobile Microrobotics Framework SuRF 🏄‍♀️](https://github.com/jonoboderbonobo/surf/), providing silicon-proven, open source circuit blocks for on-board actuation. These low-power, low-cost designs help researchers and engineers test a wide range of actuation, communication, and energy-harvesting methods in real-life conditions. 
 <br> 
 
@@ -27,7 +27,7 @@ With SuRF 🏄‍♀️, the goal is to bring microrobotics closer to practical 
 
 
 
-# 2. Disclaimer [↩](#tt10---microrobot-circuits-documentation-)
+# 2. Disclaimer [↩](#piezobot-v1-)
 ### Quality
 This is the first time for me, a student, designing any integrated circuit. I therefore do not recommend engaging in any of the proposed circuits before I confirmed their behavior by physically testing them. This tapeout only lays the groundwork for future iterations. 
 <br> 
@@ -53,7 +53,7 @@ I would like to mention following contributors here in one spot in addition to r
 - Everyone else in the Open-Source community I am too ignorant to even know, but who still make it possible for someone without the financial possibilities to engage hands on IC-design.
 
 
-# 3. Requirements [↩](#tt10---microrobot-circuits-documentation-)
+# 3. Requirements [↩](#piezobot-v1-)
 To understand the requirements on the circuits we first have to understand the circuits mission profile. The mission profile is heavily influenced by "Dogbot" as well as arbitrary design choices by myself rather than a real world application.
 ## Dogbot: similarities and differences
 For this tapeout, a design similar to Michael F. Reynolds et al. Dogbot [[1]](#1) was selected.
@@ -162,14 +162,14 @@ Template
 | -         | -          | -          | -           | -           | 
 
 
-# 4. Design Choices [↩](#tt10---microrobot-circuits-documentation-)
+# 4. Design Choices [↩](#piezobot-v1-)
 ## Driver
 
 ## Oscillator
 
 ## Reference
 
-# 5. Results [↩](#tt10---microrobot-circuits-documentation-)
+# 5. Results [↩](#piezobot-v1-)
 
 
 # References
